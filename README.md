@@ -8,5 +8,6 @@ PivotTables
 Excel formulas and calculated fields
 Data cleaning and transformation
 Data visualization
-Dashboard Preview
-[Healthcare Encounters Dashboard](Dashboard_Preview.png)
+## Dashboard Preview
+
+![Healthcare Encounters Dashboard](./Dashboard_Preview.png)
